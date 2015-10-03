@@ -1,2 +1,3 @@
 # git-notes
-git training notes
+git command training notes.
+
